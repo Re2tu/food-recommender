@@ -14,7 +14,7 @@ This project is a Streamlit-based web application that recommends food items bas
 1. Clone the repository:
 
    ```sh
-   git clone [https://github.com/Re2tu/food-recommender.git](https://github.com/Re2tu/food-recommender.git)
+   git clone (https://github.com/Re2tu/food-recommender.git)
    cd food-recommender
    ```
 2.Install dependencies
