@@ -18,7 +18,11 @@ This project is a Streamlit-based web application that recommends food items bas
    cd food-recommender
    ```
 2.Install dependencies
-    pip install -r requirements.txt
+  ```sh  
+  pip install -r requirements.txt
+```
 3.Run the application
+```sh
     streamlit run app.py
+```
 
